@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "breedname": "Golden Retriever",
+    "origin": "Scotland",
+    "lifespan": 12,
+    "cost": 25000,
+    "image": "🐕",
+    "description": "The Golden Retriever is a medium-large gun dog that was bred to retrieve shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name \"retriever\" refers to the breed's ability to retrieve shot game undamaged due to their soft mouth."
+  },
+  {
+    "id": 1,
+    "breedname": "Husky",
+    "origin": "Siberia",
+    "lifespan": 10,
+    "cost": 45000,
+    "image": "🐕",
+    "description": "A husky is a sled dog used in polar regions. One can differentiate huskies from other dog types by their fast pulling-style. They represent an ever-changing cross-breed of the fastest dogs. Humans use huskies in sled-dog racing"
+  }
+]
